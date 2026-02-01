@@ -1,4 +1,4 @@
-quick test, will be deleted
+git testing
 
 HOTFIX HERE
 
@@ -7,3 +7,5 @@ HOTFIX #2 HERE
 UPDATED FROM DEV BRANCH #1
 
 UPDATED FROM DEV BRANCH #2
+
+UPDATED FROM DEV BRANCH #3
