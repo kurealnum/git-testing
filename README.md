@@ -1,6 +1,9 @@
 quick test, will be deleted
 
 HOTFIX HERE
+
+HOTFIX #2 HERE
+
 UPDATED FROM DEV BRANCH #1
 
 UPDATED FROM DEV BRANCH #2
